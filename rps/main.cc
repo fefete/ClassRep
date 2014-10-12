@@ -59,6 +59,7 @@ void generatePlayer(Player machine[10]){
 
 }
 
+//Not yet, make a score list after the game, or just add the result to an existing
 /*void insertScore(struct Score finalScore){
   FILE* scoreList;
   scoreList = fopen("//scores.txt", "a");
